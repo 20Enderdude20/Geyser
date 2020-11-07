@@ -118,7 +118,7 @@ above-bedrock-nether-building: false
 force-resource-packs: true
 
 # Allows Xbox achievements to be unlocked.
-# This disables certain commands so the Bedrock client can't to "cheat" to get them.
+# This disables certain commands so the Bedrock client can't "cheat" to get them.
 # Commands such as /gamemode and /give will not work from Bedrock with this enabled
 xbox-achievements-enabled: false
 
